@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="pr.cpp" />
     <ClCompile Include="pro.cpp" />
     <ClCompile Include="problem.cpp" />
   </ItemGroup>
